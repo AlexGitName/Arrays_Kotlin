@@ -1,3 +1,8 @@
+import calc.array.ArrayCalc
+import calc.array.floatArra
+import calc.array.floatArray
+
 fun main(args: Array<String>) {
-    println("Hello world")
+    floatArra()
+    Unit
 }
